@@ -1,19 +1,33 @@
-[![Maven Build](https://github.com/boriszbandi/se-lab/actions/workflows/maven.yml/badge.svg)](https://github.com/boriszbandi/se-lab/actions/workflows/maven.yml)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/55738436?s=400&u=94e444521358ab1d18ef15de2df480bac1177abe&v=4" alt="SE Spaceship Logo" width="200"/>
+</p>
 
-# SE Spaceship
+<p align="center">
+  <a href="https://github.com/boriszbandi/se-lab/actions/workflows/maven.yml">
+    <img src="https://github.com/boriszbandi/se-lab/actions/workflows/maven.yml/badge.svg" alt="Maven Build"/>
+  </a>
+  <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"/>
+  </a>
+</p>
 
-This is a sample application for the [Software Engineering](http://www.mit.bme.hu/oktatas/targyak/vimiab04) course at BME MIT.
+<h1 align="center">SE Spaceship</h1>
 
-The application is simplified and deliberately contains bugs.
+<p align="center">
+  This is a sample application for the <a href="http://www.mit.bme.hu/oktatas/targyak/vimiab04">Software Engineering</a> course at BME MIT.
+  The application is simplified and deliberately contains bugs.
+</p>
 
-## Getting started
+## Getting Started
 
 - The project is implemented in Java 11.
 - The project can be built using [Maven](https://maven.apache.org/).
 - [JUnit](https://junit.org/junit5/) is used for tests, and [Mockito](https://site.mockito.org/) for isolating dependencies.
 
+### Build the Application
+
 Clone the repository and execute Maven to build the application:
+
 
 ```
 mvn compile
