@@ -39,4 +39,4 @@ The project represents an alpha version of a spaceship.
 
 The code can be built, but due to missing features one of the tests fails. The first exercise will be to fix this.
 
-[maven build](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
+[![Maven Build](https://github.com/boriszbandi/se-lab/actions/workflows/maven.yml/badge.svg)](https://github.com/boriszbandi/se-lab/actions/workflows/maven.yml)
